@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136001136666",
+    "firebase_url": "https://pergola-53356.firebaseio.com",
+    "project_id": "pergola-53356",
+    "storage_bucket": "pergola-53356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136001136666:android:5aa39586cc17f357ba09a3",
+        "android_client_info": {
+          "package_name": "com.amuab.pergola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136001136666-4vatirhl3ssv1ocq65t9m63sbulqg3kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwtioLwsr2Vz2k9_4men5ziQV0mTW1TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136001136666-4vatirhl3ssv1ocq65t9m63sbulqg3kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
